@@ -18,3 +18,5 @@ Inputs:(three)
 Output: None
 """
 def CaptureFrame_Process(file_path, sample_frequency, save_path):
+
+    return
